@@ -4,7 +4,14 @@ Objective: Web application that assist the user in finding a game of their choic
 API: https://api-docs.igdb.com/#endpoints
 
 <h1> Getting Started </h1>
-<p> To get access to this web application first clone this repository. Download all the dependencies to run this program using command <span style="background-color: yellow;">npm install</span>.</p>
+<p>To use the application here are the steps to follow:
+- Clone the repo to a local device
+- Open up the terminal and use command `npm install` to download all the required dependencies
+- 
+
+
+
+</p>
 
 
 
