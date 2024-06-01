@@ -31,6 +31,8 @@ Search/Similar/Favorites:
   - The Favorites page includes all the games the user favorites throughout any of the pages. When the user click the heart icon the data of the game gets save into a MongoDB cluster. (To improve this feature should include user login, so each different user have their own personalized favorites rather than just rendering all the games that appears in the database)
 
 
+<h3>Good Luck Finding a game of your choice!!!</h3>
+
 
 
 
