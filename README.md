@@ -19,16 +19,13 @@ Homepage:
   - Endpoint to display 8 random games.
 
 NavBar:
-  - Have dropdown list of certain game category where user can click on that takes the client to a specific endpoint that renders 50 random games from the category of their choice.
-  - Home Button that returns the user to homepage.
-  - Favorite Button that sends the client to the favorite endpoint that contains games the save in their favorites.
-  - Search display, where user can type a name of a specific game of their choosing. Doing so will bring user to endpoint that displays up to 50 games with related to the serach term the user inputs.
+ - search-bar(search games by names)
+ - Homepage, favorites, and drop-down menu
 
 Search/Similar/Favorites: 
-  - These components have different endpoints that interacts with specific endpoints of the API to render specific games depending on user interaction with the web application.
-  - As explained above when a user types a into the search bar, the keyword determines what games gets displayed in on search page.
-  - To get to the similar page you have to click a game on the search page.
-  - The Favorites page includes all the games the user favorites throughout any of the pages. When the user click the heart icon the data of the game gets save into a MongoDB cluster. (To improve this feature should include user login, so each different user have their own personalized favorites rather than just rendering all the games that appears in the database)
+  - Similar pages shows games related to the user inputed into search bar
+  - Favortie page is a compilation of all saved favorite games (favorited games are store in MongoDB database)
+  
 
 
 <h3>Good Luck Finding a game of your choice!!!</h3>
