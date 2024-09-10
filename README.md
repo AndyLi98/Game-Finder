@@ -25,6 +25,7 @@ NavBar:
 Search/Similar/Favorites: 
   - Similar pages shows games related to the user inputed into search bar
   - Favortie page is a compilation of all saved favorite games (favorited games are store in MongoDB database)
+  - Need to add user login, so favorite game can become more personalize for each user.
   
 
 
